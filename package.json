@@ -1,0 +1,28 @@
+{
+  "name": "essenceapi",
+  "version": "1.0.0",
+  "description": "Suprir o aplicativo Essence com as API's necessárias",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jassisss/EssenceAPI"
+  },
+  "keywords": [
+    "Essência",
+    "DISC",
+    "comportamento"
+  ],
+  "author": "José de Assis Santos da Silva",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jassisss/EssenceAPI/issues"
+  },
+  "homepage": "https://github.com/jassisss/EssenceAPI#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3"
+  }
+}
